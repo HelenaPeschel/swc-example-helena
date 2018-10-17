@@ -1,5 +1,5 @@
 
-# swc-example-helena eoncoejnojnejn
+# I_still-think-itsmine
 
 An example project for the git lesson of EMBL Software Carpentry.
 
