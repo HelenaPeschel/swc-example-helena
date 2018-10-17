@@ -7,5 +7,6 @@ Quick Markdown Overview
 - create **bold text** with **
 - create *italic* text with "*"
 - include [links](https://embl.de) with [] and ()
+- type code with backticks 
 
 Just adding some additional changes to practice git.
