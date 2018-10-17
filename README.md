@@ -1,4 +1,5 @@
-# swc-example-helena
+# swc-example-itsminenow!
+
 An example project for the git lesson of EMBL Software Carpentry.
 
 Quick Markdown Overview
